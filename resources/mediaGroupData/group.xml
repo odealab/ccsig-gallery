@@ -1,0 +1,1112 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 5.2</authorApplication>
+<creationDate>09/01/16, 02:31:39 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>Photo gallery</groupTitle>
+<groupDescription>This photo gallery is a complement to the CCSIG by providing higher resolution images of coral skeletons.
+
+The CCSIG currently (as of August 31, 2016) contains most of the species that can be found in Bocas del Toro, Panama. Contributions to further expand the taxonomic and geographic range of this guide are highly encouraged (please see the bottom for contact information).
+  
+Images of coral skeleton (colony, corallite and/or valley) were taken from coral specimens from the reference collection of coral skeleton (Caribbean Coral Skeleton Reference Collection, CCSRC) at the Naos Marine Laboratory, Smithsonian Tropical Research Institute, Panama. Images of species that are not available (as of August 31, 2016) in the CCSRC or do not have well-preserved specimens were obtained from [Corals of the World](http://coral.aims.gov.au/info/factsheets.jsp) instead. 
+
+Each image has a scale of either:
+- a strip of horizontal lines (or a ruler) with 1mm intervals (Images taken from the CCSRC) 
+- a digitized scale located in one of the corners of the image (Images from Corals of the World)
+
+Labels of the images correspond with the row number and name of the species in the tables found in the CCSIG: 
+- weblink
+- print link
+  
+To make suggestions/comments, please contact:
+- Melisa Chan: melisacbl@gmail.com
+- Nicthe-Ha Mu&#x00F1;oz: nicteha.limno@gmail.com
+- Mauro Lepore: maurolepore@gmail.com</groupDescription>
+<siteTitle>Caribbean Coral Skeleton Identification Guide</siteTitle>
+<contactName>Melisa Chan - melisacbl@gmail.com</contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="48" maxwidth="48" size="thumb"/>
+<imageSize maxheight="520" maxwidth="1040" size="small"/>
+<imageSize maxheight="650" maxwidth="1150" size="medium"/>
+<imageSize maxheight="850" maxwidth="1275" size="large"/>
+</sizes>
+<media totalGallerySize="89">
+<item>
+<title>1. Acropora cervicornis</title>
+<description>Piece of branch with radial corallites</description>
+<imageID id="17177" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/1._Acropora_cervicornis_ML_-_Colony.jpg" width="568" size="large"/>
+<rendition height="650" src="images/medium/1._Acropora_cervicornis_ML_-_Colony.jpg" width="434" size="medium"/>
+<rendition height="520" src="images/small/1._Acropora_cervicornis_ML_-_Colony.jpg" width="347" size="small"/>
+<rendition height="48" src="images/thumb/1._Acropora_cervicornis_ML_-_Colony.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>1. Acropora cervicornis</title>
+<description>Cross-sectional view of axial corallite</description>
+<imageID id="17194" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/1._Acropora_cervicornis_ML_-_Corallite.jpg" width="568" size="large"/>
+<rendition height="650" src="images/medium/1._Acropora_cervicornis_ML_-_Corallite.jpg" width="434" size="medium"/>
+<rendition height="520" src="images/small/1._Acropora_cervicornis_ML_-_Corallite.jpg" width="347" size="small"/>
+<rendition height="48" src="images/thumb/1._Acropora_cervicornis_ML_-_Corallite.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>2. Acropora palmata</title>
+<description>Colony</description>
+<imageID id="17543" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/2._Acropora_palmata_LD_-_Colony.jpg" width="523" size="large"/>
+<rendition height="650" src="images/medium/2._Acropora_palmata_LD_-_Colony.jpg" width="400" size="medium"/>
+<rendition height="520" src="images/small/2._Acropora_palmata_LD_-_Colony.jpg" width="320" size="small"/>
+<rendition height="48" src="images/thumb/2._Acropora_palmata_LD_-_Colony.jpg" width="30" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>2. Acropora palmata</title>
+<description>Protruding corallites</description>
+<imageID id="17560" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/2._Acropora_palmata_LD_-_Colony2.jpg" width="502" size="large"/>
+<rendition height="650" src="images/medium/2._Acropora_palmata_LD_-_Colony2.jpg" width="384" size="medium"/>
+<rendition height="520" src="images/small/2._Acropora_palmata_LD_-_Colony2.jpg" width="307" size="small"/>
+<rendition height="48" src="images/thumb/2._Acropora_palmata_LD_-_Colony2.jpg" width="28" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>2. Acropora palmata</title>
+<description>Protruding corallites</description>
+<imageID id="17577" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/2._Acropora_palmata_LD_-_Corallite.jpg" width="1051" size="large"/>
+<rendition height="650" src="images/medium/2._Acropora_palmata_LD_-_Corallite.jpg" width="804" size="medium"/>
+<rendition height="520" src="images/small/2._Acropora_palmata_LD_-_Corallite.jpg" width="643" size="small"/>
+<rendition height="39" src="images/thumb/2._Acropora_palmata_LD_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>3. Acropora prolifera</title>
+<description>Piece of branch with radial corallites</description>
+<imageID id="17974" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/3._Acropora_prolifera_ML_-_Colony.jpg" width="782" size="large"/>
+<rendition height="650" src="images/medium/3._Acropora_prolifera_ML_-_Colony.jpg" width="598" size="medium"/>
+<rendition height="520" src="images/small/3._Acropora_prolifera_ML_-_Colony.jpg" width="478" size="small"/>
+<rendition height="48" src="images/thumb/3._Acropora_prolifera_ML_-_Colony.jpg" width="44" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>3. Acropora prolifera</title>
+<description>Cross-sectional view of axial/radial corallites</description>
+<imageID id="17991" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/3._Acropora_prolifera_ML_-_Corallite.jpg" width="1024" size="large"/>
+<rendition height="650" src="images/medium/3._Acropora_prolifera_ML_-_Corallite.jpg" width="783" size="medium"/>
+<rendition height="520" src="images/small/3._Acropora_prolifera_ML_-_Corallite.jpg" width="627" size="small"/>
+<rendition height="40" src="images/thumb/3._Acropora_prolifera_ML_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>4. Cladocora arbuscula</title>
+<description>A branch of a colony</description>
+<imageID id="18381" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/4._Cladocora_arbuscula_BT_-_Colony.jpg" width="852" size="large"/>
+<rendition height="650" src="images/medium/4._Cladocora_arbuscula_BT_-_Colony.jpg" width="651" size="medium"/>
+<rendition height="520" src="images/small/4._Cladocora_arbuscula_BT_-_Colony.jpg" width="521" size="small"/>
+<rendition height="48" src="images/thumb/4._Cladocora_arbuscula_BT_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>4. Cladocora arbuscula</title>
+<description>Corallite</description>
+<imageID id="18398" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="807" src="images/large/4._Cladocora_arbuscula_BT_-_Corallite.jpg" width="946" size="large"/>
+<rendition height="650" src="images/medium/4._Cladocora_arbuscula_BT_-_Corallite.jpg" width="762" size="medium"/>
+<rendition height="520" src="images/small/4._Cladocora_arbuscula_BT_-_Corallite.jpg" width="610" size="small"/>
+<rendition height="41" src="images/thumb/4._Cladocora_arbuscula_BT_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>5. Eusmilia fastigiata</title>
+<description>A branch of a colony</description>
+<imageID id="18618" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/5._Eusmilia_fastigiata_KC_-_Colony.jpg" width="609" size="large"/>
+<rendition height="650" src="images/medium/5._Eusmilia_fastigiata_KC_-_Colony.jpg" width="466" size="medium"/>
+<rendition height="520" src="images/small/5._Eusmilia_fastigiata_KC_-_Colony.jpg" width="373" size="small"/>
+<rendition height="48" src="images/thumb/5._Eusmilia_fastigiata_KC_-_Colony.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>5. Eusmilia fastigiata</title>
+<description>Corallite</description>
+<imageID id="18635" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/5._Eusmilia_fastigiata_ML_-_Corallite.jpg" width="688" size="large"/>
+<rendition height="650" src="images/medium/5._Eusmilia_fastigiata_ML_-_Corallite.jpg" width="526" size="medium"/>
+<rendition height="520" src="images/small/5._Eusmilia_fastigiata_ML_-_Corallite.jpg" width="421" size="small"/>
+<rendition height="48" src="images/thumb/5._Eusmilia_fastigiata_ML_-_Corallite.jpg" width="39" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>6. Madracis asperula</title>
+<description>Piece of branch</description>
+<imageID id="18652" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/6._Madracis_asperula_ML_-_Colony.jpg" width="615" size="large"/>
+<rendition height="650" src="images/medium/6._Madracis_asperula_ML_-_Colony.jpg" width="471" size="medium"/>
+<rendition height="520" src="images/small/6._Madracis_asperula_ML_-_Colony.jpg" width="376" size="small"/>
+<rendition height="48" src="images/thumb/6._Madracis_asperula_ML_-_Colony.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>7. Madracis decactis</title>
+<description>Piece of colony</description>
+<imageID id="18669" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/7._Madracis_decactis_KC_-_Colony.jpg" width="733" size="large"/>
+<rendition height="650" src="images/medium/7._Madracis_decactis_KC_-_Colony.jpg" width="561" size="medium"/>
+<rendition height="520" src="images/small/7._Madracis_decactis_KC_-_Colony.jpg" width="449" size="small"/>
+<rendition height="48" src="images/thumb/7._Madracis_decactis_KC_-_Colony.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>7. Madracis decactis</title>
+<description>Closer view of corallites</description>
+<imageID id="18686" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/7._Madracis_decactis_KC_-_Corallite.jpg" width="1184" size="large"/>
+<rendition height="650" src="images/medium/7._Madracis_decactis_KC_-_Corallite.jpg" width="905" size="medium"/>
+<rendition height="520" src="images/small/7._Madracis_decactis_KC_-_Corallite.jpg" width="724" size="small"/>
+<rendition height="34" src="images/thumb/7._Madracis_decactis_KC_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>8. Oculine diffusa</title>
+<description>Piece of branch</description>
+<imageID id="18703" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/8._Oculina_diffusa_BT_-_Colony.jpg" width="557" size="large"/>
+<rendition height="650" src="images/medium/8._Oculina_diffusa_BT_-_Colony.jpg" width="426" size="medium"/>
+<rendition height="520" src="images/small/8._Oculina_diffusa_BT_-_Colony.jpg" width="341" size="small"/>
+<rendition height="48" src="images/thumb/8._Oculina_diffusa_BT_-_Colony.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>8. Oculine diffusa</title>
+<description>Corallite</description>
+<imageID id="18720" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="562" src="images/large/8._Oculina_diffusa_BT_-_Corallite.jpg" width="959" size="large"/>
+<rendition height="562" src="images/medium/8._Oculina_diffusa_BT_-_Corallite.jpg" width="959" size="medium"/>
+<rendition height="520" src="images/small/8._Oculina_diffusa_BT_-_Corallite.jpg" width="887" size="small"/>
+<rendition height="28" src="images/thumb/8._Oculina_diffusa_BT_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>9. Porites divaricata</title>
+<description>Piece of branch</description>
+<imageID id="18737" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="290" src="images/large/9._Porites_divaricata_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="290" src="images/medium/9._Porites_divaricata_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="290" src="images/small/9._Porites_divaricata_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="46" src="images/thumb/9._Porites_divaricata_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>9. Porites divaricata</title>
+<description>Closer view of corallites</description>
+<imageID id="18754" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="336" src="images/large/9._Porites_divaricata_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="336" src="images/medium/9._Porites_divaricata_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="336" src="images/small/9._Porites_divaricata_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/9._Porites_divaricata_CTW_-_Corallite.jpg" width="43" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>10. Porites furcata</title>
+<description>Piece of branch</description>
+<imageID id="17215" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="201" src="images/large/10._Porites_furcata_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="201" src="images/medium/10._Porites_furcata_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="201" src="images/small/10._Porites_furcata_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="32" src="images/thumb/10._Porites_furcata_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>10. Porites furcata</title>
+<description>Closer view of corallites</description>
+<imageID id="17232" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="300" src="images/large/10._Porites_furcata_CTW_-_Corallite.jpg" width="400" size="large"/>
+<rendition height="300" src="images/medium/10._Porites_furcata_CTW_-_Corallite.jpg" width="400" size="medium"/>
+<rendition height="300" src="images/small/10._Porites_furcata_CTW_-_Corallite.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/10._Porites_furcata_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>11. Porites porites</title>
+<description>Piece of branch</description>
+<imageID id="17249" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="362" src="images/large/11._Porites_porites_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="362" src="images/medium/11._Porites_porites_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="362" src="images/small/11._Porites_porites_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/11._Porites_porites_CTW_-_Colony.jpg" width="40" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>11. Porites porites</title>
+<description>Closer view of corallites</description>
+<imageID id="17272" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="449" src="images/large/11._Porites_porites_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="449" src="images/medium/11._Porites_porites_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="449" src="images/small/11._Porites_porites_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/11._Porites_porites_CTW_-_Corallite.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>12. Madracis pharensis</title>
+<description>Colony</description>
+<imageID id="17289" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="217" src="images/large/12._Madracis_pharensis_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="217" src="images/medium/12._Madracis_pharensis_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="217" src="images/small/12._Madracis_pharensis_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="35" src="images/thumb/12._Madracis_pharensis_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>13. Colpophyllia natans</title>
+<description>Colony</description>
+<imageID id="17305" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="300" src="images/large/13._Colpophyllia_natans_CTW_-_Colony.jpg" width="400" size="large"/>
+<rendition height="300" src="images/medium/13._Colpophyllia_natans_CTW_-_Colony.jpg" width="400" size="medium"/>
+<rendition height="300" src="images/small/13._Colpophyllia_natans_CTW_-_Colony.jpg" width="400" size="small"/>
+<rendition height="36" src="images/thumb/13._Colpophyllia_natans_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>13. Colpophyllia natans</title>
+<description>Valleys</description>
+<imageID id="17322" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="300" src="images/large/13._Colpophyllia_natans_CTW_-_Valleys.jpg" width="341" size="large"/>
+<rendition height="300" src="images/medium/13._Colpophyllia_natans_CTW_-_Valleys.jpg" width="341" size="medium"/>
+<rendition height="300" src="images/small/13._Colpophyllia_natans_CTW_-_Valleys.jpg" width="341" size="small"/>
+<rendition height="42" src="images/thumb/13._Colpophyllia_natans_CTW_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>14. Dichocoenia stokesi</title>
+<description>Colony</description>
+<imageID id="17339" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/14._Dichocoenia_stokesi_ML_-_Colony.jpg" width="671" size="large"/>
+<rendition height="650" src="images/medium/14._Dichocoenia_stokesi_ML_-_Colony.jpg" width="513" size="medium"/>
+<rendition height="520" src="images/small/14._Dichocoenia_stokesi_ML_-_Colony.jpg" width="410" size="small"/>
+<rendition height="48" src="images/thumb/14._Dichocoenia_stokesi_ML_-_Colony.jpg" width="38" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>14. Dichocoenia stokesi</title>
+<description>Corallite</description>
+<imageID id="17356" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/14._Dichocoenia_stokesi_ML_-_Corallite.jpg" width="953" size="large"/>
+<rendition height="650" src="images/medium/14._Dichocoenia_stokesi_ML_-_Corallite.jpg" width="729" size="medium"/>
+<rendition height="520" src="images/small/14._Dichocoenia_stokesi_ML_-_Corallite.jpg" width="583" size="small"/>
+<rendition height="43" src="images/thumb/14._Dichocoenia_stokesi_ML_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>15. Diploria labyrinthiformis</title>
+<description>Colony</description>
+<imageID id="17373" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/15._Diploria_labyrinthiformis_KC_-_Colony.jpg" width="812" size="large"/>
+<rendition height="650" src="images/medium/15._Diploria_labyrinthiformis_KC_-_Colony.jpg" width="621" size="medium"/>
+<rendition height="520" src="images/small/15._Diploria_labyrinthiformis_KC_-_Colony.jpg" width="497" size="small"/>
+<rendition height="48" src="images/thumb/15._Diploria_labyrinthiformis_KC_-_Colony.jpg" width="46" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>15. Diploria labyrinthiformis</title>
+<description>Valleys</description>
+<imageID id="17390" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/15._Diploria_labyrinthiformis_KC_-_Valleys.jpg" width="567" size="large"/>
+<rendition height="650" src="images/medium/15._Diploria_labyrinthiformis_KC_-_Valleys.jpg" width="434" size="medium"/>
+<rendition height="520" src="images/small/15._Diploria_labyrinthiformis_KC_-_Valleys.jpg" width="347" size="small"/>
+<rendition height="48" src="images/thumb/15._Diploria_labyrinthiformis_KC_-_Valleys.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>16. Isophyllia sinuosa</title>
+<description>Valleys</description>
+<imageID id="17407" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="181" src="images/large/16._Isophyllia_sinuosa_CTW_-_Valleys.jpg" width="300" size="large"/>
+<rendition height="181" src="images/medium/16._Isophyllia_sinuosa_CTW_-_Valleys.jpg" width="300" size="medium"/>
+<rendition height="181" src="images/small/16._Isophyllia_sinuosa_CTW_-_Valleys.jpg" width="300" size="small"/>
+<rendition height="29" src="images/thumb/16._Isophyllia_sinuosa_CTW_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>17. Manicina areolata</title>
+<description>Colony</description>
+<imageID id="17424" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/17._Manicina_areolata_LD_-_Colony.jpg" width="513" size="large"/>
+<rendition height="650" src="images/medium/17._Manicina_areolata_LD_-_Colony.jpg" width="392" size="medium"/>
+<rendition height="520" src="images/small/17._Manicina_areolata_LD_-_Colony.jpg" width="314" size="small"/>
+<rendition height="48" src="images/thumb/17._Manicina_areolata_LD_-_Colony.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>17. Manicina areolata</title>
+<description>Epitheca and attachment</description>
+<imageID id="17441" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/17._Manicina_areolata_LD_-_Colony2.jpg" width="605" size="large"/>
+<rendition height="650" src="images/medium/17._Manicina_areolata_LD_-_Colony2.jpg" width="463" size="medium"/>
+<rendition height="520" src="images/small/17._Manicina_areolata_LD_-_Colony2.jpg" width="370" size="small"/>
+<rendition height="48" src="images/thumb/17._Manicina_areolata_LD_-_Colony2.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>17. Manicina areolata</title>
+<description>Side view of valley</description>
+<imageID id="17458" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/17._Manicina_areolata_LD_-_Valleys.jpg" width="566" size="large"/>
+<rendition height="650" src="images/medium/17._Manicina_areolata_LD_-_Valleys.jpg" width="433" size="medium"/>
+<rendition height="520" src="images/small/17._Manicina_areolata_LD_-_Valleys.jpg" width="346" size="small"/>
+<rendition height="48" src="images/thumb/17._Manicina_areolata_LD_-_Valleys.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>17. Manicina areolata</title>
+<description>Top view of valley</description>
+<imageID id="17475" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/17._Manicina_areolata_LD_-_Valleys2.jpg" width="603" size="large"/>
+<rendition height="650" src="images/medium/17._Manicina_areolata_LD_-_Valleys2.jpg" width="461" size="medium"/>
+<rendition height="520" src="images/small/17._Manicina_areolata_LD_-_Valleys2.jpg" width="369" size="small"/>
+<rendition height="48" src="images/thumb/17._Manicina_areolata_LD_-_Valleys2.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>18. Meandrina meandrites</title>
+<description>Valleys</description>
+<imageID id="17492" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="291" src="images/large/18._Meandrina_meandrites_CTW_-_Valleys.jpg" width="300" size="large"/>
+<rendition height="291" src="images/medium/18._Meandrina_meandrites_CTW_-_Valleys.jpg" width="300" size="medium"/>
+<rendition height="291" src="images/small/18._Meandrina_meandrites_CTW_-_Valleys.jpg" width="300" size="small"/>
+<rendition height="47" src="images/thumb/18._Meandrina_meandrites_CTW_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>19. Pseudodiploria clivosa</title>
+<description>Colony</description>
+<imageID id="17509" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="250" src="images/large/19._Pseudodiploria_clivosa_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="250" src="images/medium/19._Pseudodiploria_clivosa_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="250" src="images/small/19._Pseudodiploria_clivosa_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="40" src="images/thumb/19._Pseudodiploria_clivosa_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>19. Pseudodiploria clivosa</title>
+<description>Valleys</description>
+<imageID id="17526" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="176" src="images/large/19._Pseudodiploria_clivosa_CTW_-_Valleys.jpg" width="300" size="large"/>
+<rendition height="176" src="images/medium/19._Pseudodiploria_clivosa_CTW_-_Valleys.jpg" width="300" size="medium"/>
+<rendition height="176" src="images/small/19._Pseudodiploria_clivosa_CTW_-_Valleys.jpg" width="300" size="small"/>
+<rendition height="28" src="images/thumb/19._Pseudodiploria_clivosa_CTW_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>20. Pseudodiploria strigosa</title>
+<description>Colony</description>
+<imageID id="17594" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/20._Pseudodiploria_strigosa_LD_-_Colony.jpg" width="989" size="large"/>
+<rendition height="650" src="images/medium/20._Pseudodiploria_strigosa_LD_-_Colony.jpg" width="757" size="medium"/>
+<rendition height="520" src="images/small/20._Pseudodiploria_strigosa_LD_-_Colony.jpg" width="605" size="small"/>
+<rendition height="41" src="images/thumb/20._Pseudodiploria_strigosa_LD_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>20. Pseudodiploria strigosa</title>
+<description>Valley width</description>
+<imageID id="17651" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="848" src="images/large/20._Pseudodiploria_strigosa_LD_-_Valleys.jpg" width="1275" size="large"/>
+<rendition height="650" src="images/medium/20._Pseudodiploria_strigosa_LD_-_Valleys.jpg" width="977" size="medium"/>
+<rendition height="520" src="images/small/20._Pseudodiploria_strigosa_LD_-_Valleys.jpg" width="781" size="small"/>
+<rendition height="32" src="images/thumb/20._Pseudodiploria_strigosa_LD_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>20. Pseudodiploria strigosa</title>
+<description>Septa count, cycle and spacing</description>
+<imageID id="17668" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/20._Pseudodiploria_strigosa_LD_-_Valleys2.jpg" width="1145" size="large"/>
+<rendition height="650" src="images/medium/20._Pseudodiploria_strigosa_LD_-_Valleys2.jpg" width="876" size="medium"/>
+<rendition height="520" src="images/small/20._Pseudodiploria_strigosa_LD_-_Valleys2.jpg" width="701" size="small"/>
+<rendition height="36" src="images/thumb/20._Pseudodiploria_strigosa_LD_-_Valleys2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>20. Pseudodiploria strigosa</title>
+<description>Valley height</description>
+<imageID id="17685" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/20._Pseudodiploria_strigosa_LD_-_Valleys3.jpg" width="1162" size="large"/>
+<rendition height="650" src="images/medium/20._Pseudodiploria_strigosa_LD_-_Valleys3.jpg" width="888" size="medium"/>
+<rendition height="520" src="images/small/20._Pseudodiploria_strigosa_LD_-_Valleys3.jpg" width="711" size="small"/>
+<rendition height="35" src="images/thumb/20._Pseudodiploria_strigosa_LD_-_Valleys3.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>21. Agaricia humilis</title>
+<description>Colony</description>
+<imageID id="17702" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/21._Agaricia_humilis_KC_-_Colony.jpg" width="720" size="large"/>
+<rendition height="650" src="images/medium/21._Agaricia_humilis_KC_-_Colony.jpg" width="551" size="medium"/>
+<rendition height="520" src="images/small/21._Agaricia_humilis_KC_-_Colony.jpg" width="441" size="small"/>
+<rendition height="48" src="images/thumb/21._Agaricia_humilis_KC_-_Colony.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>21. Agaricia humilis</title>
+<description>Corallites</description>
+<imageID id="17719" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/21._Agaricia_humilis_KC_-_Corallite.jpg" width="880" size="large"/>
+<rendition height="650" src="images/medium/21._Agaricia_humilis_KC_-_Corallite.jpg" width="673" size="medium"/>
+<rendition height="520" src="images/small/21._Agaricia_humilis_KC_-_Corallite.jpg" width="538" size="small"/>
+<rendition height="46" src="images/thumb/21._Agaricia_humilis_KC_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>22. Favia fragum</title>
+<description>Colony</description>
+<imageID id="17736" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/22._Favia_fragum_KC_-_Colony.jpg" width="976" size="large"/>
+<rendition height="650" src="images/medium/22._Favia_fragum_KC_-_Colony.jpg" width="746" size="medium"/>
+<rendition height="520" src="images/small/22._Favia_fragum_KC_-_Colony.jpg" width="597" size="small"/>
+<rendition height="42" src="images/thumb/22._Favia_fragum_KC_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>22. Favia fragum</title>
+<description>Corallites</description>
+<imageID id="17753" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/22._Favia_fragum_KC_-_Corallite.jpg" width="715" size="large"/>
+<rendition height="650" src="images/medium/22._Favia_fragum_KC_-_Corallite.jpg" width="547" size="medium"/>
+<rendition height="520" src="images/small/22._Favia_fragum_KC_-_Corallite.jpg" width="437" size="small"/>
+<rendition height="48" src="images/thumb/22._Favia_fragum_KC_-_Corallite.jpg" width="40" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>22. Favia fragum</title>
+<description>Colony</description>
+<imageID id="17770" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/22._Favia_fragum_ML_-_Colony.jpg" width="922" size="large"/>
+<rendition height="650" src="images/medium/22._Favia_fragum_ML_-_Colony.jpg" width="705" size="medium"/>
+<rendition height="520" src="images/small/22._Favia_fragum_ML_-_Colony.jpg" width="564" size="small"/>
+<rendition height="44" src="images/thumb/22._Favia_fragum_ML_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>23. Isophyllia rigida</title>
+<description>Colony</description>
+<imageID id="17787" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="246" src="images/large/23._Isophyllia_rigida_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="246" src="images/medium/23._Isophyllia_rigida_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="246" src="images/small/23._Isophyllia_rigida_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="39" src="images/thumb/23._Isophyllia_rigida_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>23. Isophyllia rigida</title>
+<description>Valley/corallites</description>
+<imageID id="17804" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="218" src="images/large/23._Isophyllia_rigida_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="218" src="images/medium/23._Isophyllia_rigida_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="218" src="images/small/23._Isophyllia_rigida_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="35" src="images/thumb/23._Isophyllia_rigida_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>24. Montastraea cavernosa</title>
+<description>Corallites</description>
+<imageID id="17821" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/24._Montastraea_cavernosa_ML_-_Corallite.jpg" width="681" size="large"/>
+<rendition height="650" src="images/medium/24._Montastraea_cavernosa_ML_-_Corallite.jpg" width="521" size="medium"/>
+<rendition height="520" src="images/small/24._Montastraea_cavernosa_ML_-_Corallite.jpg" width="416" size="small"/>
+<rendition height="48" src="images/thumb/24._Montastraea_cavernosa_ML_-_Corallite.jpg" width="38" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>25. Orbicella annularis</title>
+<description>Colony</description>
+<imageID id="17838" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/25._Orbicella_annularis_ML_-_Colony.jpg" width="657" size="large"/>
+<rendition height="650" src="images/medium/25._Orbicella_annularis_ML_-_Colony.jpg" width="503" size="medium"/>
+<rendition height="520" src="images/small/25._Orbicella_annularis_ML_-_Colony.jpg" width="402" size="small"/>
+<rendition height="48" src="images/thumb/25._Orbicella_annularis_ML_-_Colony.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>25. Orbicella annularis</title>
+<description>Colony</description>
+<imageID id="17855" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/25._Orbicella_annularis_ML_-_Colony2.jpg" width="597" size="large"/>
+<rendition height="650" src="images/medium/25._Orbicella_annularis_ML_-_Colony2.jpg" width="457" size="medium"/>
+<rendition height="520" src="images/small/25._Orbicella_annularis_ML_-_Colony2.jpg" width="365" size="small"/>
+<rendition height="48" src="images/thumb/25._Orbicella_annularis_ML_-_Colony2.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>25. Orbicella annularis</title>
+<description>Corallites</description>
+<imageID id="17872" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/25._Orbicella_annularis_ML_-_Corallite.jpg" width="454" size="large"/>
+<rendition height="650" src="images/medium/25._Orbicella_annularis_ML_-_Corallite.jpg" width="347" size="medium"/>
+<rendition height="520" src="images/small/25._Orbicella_annularis_ML_-_Corallite.jpg" width="278" size="small"/>
+<rendition height="48" src="images/thumb/25._Orbicella_annularis_ML_-_Corallite.jpg" width="26" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>25. Orbicella annularis</title>
+<description>Corallites</description>
+<imageID id="17889" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="847" src="images/large/25._Orbicella_annularis_ML_-_Corallite2.jpg" width="1275" size="large"/>
+<rendition height="650" src="images/medium/25._Orbicella_annularis_ML_-_Corallite2.jpg" width="979" size="medium"/>
+<rendition height="520" src="images/small/25._Orbicella_annularis_ML_-_Corallite2.jpg" width="783" size="small"/>
+<rendition height="32" src="images/thumb/25._Orbicella_annularis_ML_-_Corallite2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>26. Orbicella faveolata</title>
+<description>Corallites</description>
+<imageID id="19099" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="234" src="images/large/26._Orbicella_faveolata_Nicte-Ha_-_Colony.jpg" width="234" size="large"/>
+<rendition height="234" src="images/medium/26._Orbicella_faveolata_Nicte-Ha_-_Colony.jpg" width="234" size="medium"/>
+<rendition height="234" src="images/small/26._Orbicella_faveolata_Nicte-Ha_-_Colony.jpg" width="234" size="small"/>
+<rendition height="48" src="images/thumb/26._Orbicella_faveolata_Nicte-Ha_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>26. Orbicella faveolata</title>
+<description>Corallites</description>
+<imageID id="19116" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="177" src="images/large/26._Orbicella_faveolata_Nicte-Ha_-_Corallite.jpg" width="177" size="large"/>
+<rendition height="177" src="images/medium/26._Orbicella_faveolata_Nicte-Ha_-_Corallite.jpg" width="177" size="medium"/>
+<rendition height="177" src="images/small/26._Orbicella_faveolata_Nicte-Ha_-_Corallite.jpg" width="177" size="small"/>
+<rendition height="48" src="images/thumb/26._Orbicella_faveolata_Nicte-Ha_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>27. Orbicella franksi</title>
+<description>Colony</description>
+<imageID id="19137" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="694" src="images/large/27._Orbicella_franksi_NMITA_-_Colony.jpg" width="694" size="large"/>
+<rendition height="650" src="images/medium/27._Orbicella_franksi_NMITA_-_Colony.jpg" width="650" size="medium"/>
+<rendition height="520" src="images/small/27._Orbicella_franksi_NMITA_-_Colony.jpg" width="520" size="small"/>
+<rendition height="48" src="images/thumb/27._Orbicella_franksi_NMITA_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>27. Orbicella franksi</title>
+<description>Corallites</description>
+<imageID id="19154" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="725" src="images/large/27._Orbicella_franksi_NMITA_-_Corallite.jpg" width="725" size="large"/>
+<rendition height="650" src="images/medium/27._Orbicella_franksi_NMITA_-_Corallite.jpg" width="650" size="medium"/>
+<rendition height="520" src="images/small/27._Orbicella_franksi_NMITA_-_Corallite.jpg" width="520" size="small"/>
+<rendition height="48" src="images/thumb/27._Orbicella_franksi_NMITA_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>28. Porites astreoides</title>
+<description>Colony</description>
+<imageID id="17906" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/28._Porites_astreoides_LD_-_Colony.jpg" width="778" size="large"/>
+<rendition height="650" src="images/medium/28._Porites_astreoides_LD_-_Colony.jpg" width="595" size="medium"/>
+<rendition height="520" src="images/small/28._Porites_astreoides_LD_-_Colony.jpg" width="476" size="small"/>
+<rendition height="48" src="images/thumb/28._Porites_astreoides_LD_-_Colony.jpg" width="44" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>28. Porites astreoides</title>
+<description>Colony (encrusting)</description>
+<imageID id="17923" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/28._Porites_astreoides_ML_-_Colony2.jpg" width="382" size="large"/>
+<rendition height="650" src="images/medium/28._Porites_astreoides_ML_-_Colony2.jpg" width="292" size="medium"/>
+<rendition height="520" src="images/small/28._Porites_astreoides_ML_-_Colony2.jpg" width="233" size="small"/>
+<rendition height="48" src="images/thumb/28._Porites_astreoides_ML_-_Colony2.jpg" width="22" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>28. Porites astreoides</title>
+<description>Corallites</description>
+<imageID id="17940" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="722" src="images/large/28._Porites_astreoides_ML_-_Corallite.jpg" width="1275" size="large"/>
+<rendition height="650" src="images/medium/28._Porites_astreoides_ML_-_Corallite.jpg" width="1148" size="medium"/>
+<rendition height="520" src="images/small/28._Porites_astreoides_ML_-_Corallite.jpg" width="919" size="small"/>
+<rendition height="27" src="images/thumb/28._Porites_astreoides_ML_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>29. Siderastrea radians</title>
+<description>Colony</description>
+<imageID id="17957" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="289" src="images/large/29._Siderastrea_radians_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="289" src="images/medium/29._Siderastrea_radians_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="289" src="images/small/29._Siderastrea_radians_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="46" src="images/thumb/29._Siderastrea_radians_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>30. Siderea siderea</title>
+<description>Colony</description>
+<imageID id="18008" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/30._Siderastrea_siderea_KC_-_Colony.jpg" width="725" size="large"/>
+<rendition height="650" src="images/medium/30._Siderastrea_siderea_KC_-_Colony.jpg" width="554" size="medium"/>
+<rendition height="520" src="images/small/30._Siderastrea_siderea_KC_-_Colony.jpg" width="443" size="small"/>
+<rendition height="48" src="images/thumb/30._Siderastrea_siderea_KC_-_Colony.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>30. Siderea siderea</title>
+<description>Corallites</description>
+<imageID id="18025" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/30._Siderastrea_siderea_KC_-_Corallite.jpg" width="442" size="large"/>
+<rendition height="650" src="images/medium/30._Siderastrea_siderea_KC_-_Corallite.jpg" width="338" size="medium"/>
+<rendition height="520" src="images/small/30._Siderastrea_siderea_KC_-_Corallite.jpg" width="270" size="small"/>
+<rendition height="48" src="images/thumb/30._Siderastrea_siderea_KC_-_Corallite.jpg" width="25" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>30. Siderea siderea</title>
+<description>Colony</description>
+<imageID id="18042" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/30._Siderastrea_siderea_ML_-_Colony2.jpg" width="948" size="large"/>
+<rendition height="650" src="images/medium/30._Siderastrea_siderea_ML_-_Colony2.jpg" width="725" size="medium"/>
+<rendition height="520" src="images/small/30._Siderastrea_siderea_ML_-_Colony2.jpg" width="580" size="small"/>
+<rendition height="43" src="images/thumb/30._Siderastrea_siderea_ML_-_Colony2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>31. Solenastrea bournoni</title>
+<description>Piece of colony (zoom for corallites)</description>
+<imageID id="18059" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/31._Solenastrea_bournoni_BT_-_Colony.jpg" width="1004" size="large"/>
+<rendition height="650" src="images/medium/31._Solenastrea_bournoni_BT_-_Colony.jpg" width="768" size="medium"/>
+<rendition height="520" src="images/small/31._Solenastrea_bournoni_BT_-_Colony.jpg" width="614" size="small"/>
+<rendition height="41" src="images/thumb/31._Solenastrea_bournoni_BT_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>32. Mussa angulosa</title>
+<description>Colony/Valley</description>
+<imageID id="18126" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="219" src="images/large/32._Mussa_angulosa_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="219" src="images/medium/32._Mussa_angulosa_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="219" src="images/small/32._Mussa_angulosa_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="35" src="images/thumb/32._Mussa_angulosa_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>33. Scolymia cubensis</title>
+<description>Colony/Corallite</description>
+<imageID id="18143" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="211" src="images/large/33._Scolymia_cubensis_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="211" src="images/medium/33._Scolymia_cubensis_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="211" src="images/small/33._Scolymia_cubensis_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="34" src="images/thumb/33._Scolymia_cubensis_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>33. Scolymia cubensis</title>
+<description>Septa and septal teeth</description>
+<imageID id="18160" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="205" src="images/large/33._Scolymia_cubensis_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="205" src="images/medium/33._Scolymia_cubensis_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="205" src="images/small/33._Scolymia_cubensis_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="33" src="images/thumb/33._Scolymia_cubensis_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>34. Mycetophyllia ferox</title>
+<description>Piece of colony</description>
+<imageID id="18177" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="244" src="images/large/34._Mycetophyllia_ferox_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="244" src="images/medium/34._Mycetophyllia_ferox_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="244" src="images/small/34._Mycetophyllia_ferox_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="39" src="images/thumb/34._Mycetophyllia_ferox_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>34. Mycetophyllia ferox</title>
+<description>Valleys</description>
+<imageID id="18194" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="225" src="images/large/34._Mycetophyllia_ferox_CTW_-_Valleys.jpg" width="300" size="large"/>
+<rendition height="225" src="images/medium/34._Mycetophyllia_ferox_CTW_-_Valleys.jpg" width="300" size="medium"/>
+<rendition height="225" src="images/small/34._Mycetophyllia_ferox_CTW_-_Valleys.jpg" width="300" size="small"/>
+<rendition height="36" src="images/thumb/34._Mycetophyllia_ferox_CTW_-_Valleys.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>35. Mycetophyllia lamarckiana</title>
+<description>Colony</description>
+<imageID id="18211" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="293" src="images/large/35._Mycetophyllia_lamarckiana_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="293" src="images/medium/35._Mycetophyllia_lamarckiana_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="293" src="images/small/35._Mycetophyllia_lamarckiana_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="47" src="images/thumb/35._Mycetophyllia_lamarckiana_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>35. Mycetophyllia lamarckiana</title>
+<description>Corallites</description>
+<imageID id="18228" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="198" src="images/large/35._Mycetophyllia_lamarckiana_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="198" src="images/medium/35._Mycetophyllia_lamarckiana_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="198" src="images/small/35._Mycetophyllia_lamarckiana_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="32" src="images/thumb/35._Mycetophyllia_lamarckiana_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>36. Mycetophyllia reesi</title>
+<description>Corallites</description>
+<imageID id="18245" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="270" src="images/large/36._Mycetophyllia_reesi_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="270" src="images/medium/36._Mycetophyllia_reesi_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="270" src="images/small/36._Mycetophyllia_reesi_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="43" src="images/thumb/36._Mycetophyllia_reesi_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>37. Porites colonensis</title>
+<description>Piece of colony</description>
+<imageID id="18262" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/37._Porites_colonensis_BT_-_Colony.jpg" width="582" size="large"/>
+<rendition height="650" src="images/medium/37._Porites_colonensis_BT_-_Colony.jpg" width="445" size="medium"/>
+<rendition height="520" src="images/small/37._Porites_colonensis_BT_-_Colony.jpg" width="356" size="small"/>
+<rendition height="48" src="images/thumb/37._Porites_colonensis_BT_-_Colony.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>37. Porites colonensis</title>
+<description>Corallites</description>
+<imageID id="18279" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/37._Porites_colonensis_BT_-_Corallite.jpg" width="832" size="large"/>
+<rendition height="650" src="images/medium/37._Porites_colonensis_BT_-_Corallite.jpg" width="636" size="medium"/>
+<rendition height="520" src="images/small/37._Porites_colonensis_BT_-_Corallite.jpg" width="509" size="small"/>
+<rendition height="48" src="images/thumb/37._Porites_colonensis_BT_-_Corallite.jpg" width="47" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>37. Porites colonensis</title>
+<description>Thickness of leafy colony</description>
+<imageID id="18296" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="375" src="images/large/37._Porites_colonensis_VT_-_Colony2.jpg" width="1275" size="large"/>
+<rendition height="339" src="images/medium/37._Porites_colonensis_VT_-_Colony2.jpg" width="1150" size="medium"/>
+<rendition height="306" src="images/small/37._Porites_colonensis_VT_-_Colony2.jpg" width="1040" size="small"/>
+<rendition height="14" src="images/thumb/37._Porites_colonensis_VT_-_Colony2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>38. Agaricia agaricites</title>
+<description>Colony</description>
+<imageID id="18313" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/38._Agaricia_agaricites_KC_-_Colony.jpg" width="990" size="large"/>
+<rendition height="650" src="images/medium/38._Agaricia_agaricites_KC_-_Colony.jpg" width="757" size="medium"/>
+<rendition height="520" src="images/small/38._Agaricia_agaricites_KC_-_Colony.jpg" width="606" size="small"/>
+<rendition height="41" src="images/thumb/38._Agaricia_agaricites_KC_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>38. Agaricia agaricites</title>
+<description>Corallites</description>
+<imageID id="18330" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/38._Agaricia_agaricites_KC_-_Corallite.jpg" width="694" size="large"/>
+<rendition height="650" src="images/medium/38._Agaricia_agaricites_KC_-_Corallite.jpg" width="531" size="medium"/>
+<rendition height="520" src="images/small/38._Agaricia_agaricites_KC_-_Corallite.jpg" width="425" size="small"/>
+<rendition height="48" src="images/thumb/38._Agaricia_agaricites_KC_-_Corallite.jpg" width="39" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>39. Agaricia fragilis</title>
+<description>Colony</description>
+<imageID id="18347" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="254" src="images/large/39._Agaricia_fragilis_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="254" src="images/medium/39._Agaricia_fragilis_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="254" src="images/small/39._Agaricia_fragilis_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="41" src="images/thumb/39._Agaricia_fragilis_CTW_-_Colony.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>39. Agaricia fragilis</title>
+<description>Corallites</description>
+<imageID id="18364" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="417" src="images/large/39._Agaricia_fragilis_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="417" src="images/medium/39._Agaricia_fragilis_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="417" src="images/small/39._Agaricia_fragilis_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/39._Agaricia_fragilis_CTW_-_Corallite.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>40. Agaricia grahamae</title>
+<description>Colony</description>
+<imageID id="18415" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="349" src="images/large/40._Agaricia_grahamae_CTW_-_Colony.jpg" width="300" size="large"/>
+<rendition height="349" src="images/medium/40._Agaricia_grahamae_CTW_-_Colony.jpg" width="300" size="medium"/>
+<rendition height="349" src="images/small/40._Agaricia_grahamae_CTW_-_Colony.jpg" width="300" size="small"/>
+<rendition height="48" src="images/thumb/40._Agaricia_grahamae_CTW_-_Colony.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>40. Agaricia grahamae</title>
+<description>Corallites</description>
+<imageID id="18432" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="200" src="images/large/40._Agaricia_grahamae_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="200" src="images/medium/40._Agaricia_grahamae_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="200" src="images/small/40._Agaricia_grahamae_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="32" src="images/thumb/40._Agaricia_grahamae_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>41. Agaricia lamarcki</title>
+<description>Corallites</description>
+<imageID id="18449" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="300" src="images/large/41._Agaricia_lamarcki_CTW_-_Corallite.jpg" width="427" size="large"/>
+<rendition height="300" src="images/medium/41._Agaricia_lamarcki_CTW_-_Corallite.jpg" width="427" size="medium"/>
+<rendition height="300" src="images/small/41._Agaricia_lamarcki_CTW_-_Corallite.jpg" width="427" size="small"/>
+<rendition height="34" src="images/thumb/41._Agaricia_lamarcki_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>42. Agaricia tenuifolia</title>
+<description>Piece of colony</description>
+<imageID id="18466" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/42._Agaricia_tenuifolia_KC_-_Colony.jpg" width="799" size="large"/>
+<rendition height="650" src="images/medium/42._Agaricia_tenuifolia_KC_-_Colony.jpg" width="611" size="medium"/>
+<rendition height="520" src="images/small/42._Agaricia_tenuifolia_KC_-_Colony.jpg" width="489" size="small"/>
+<rendition height="48" src="images/thumb/42._Agaricia_tenuifolia_KC_-_Colony.jpg" width="45" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>42. Agaricia tenuifolia</title>
+<description>Corallites</description>
+<imageID id="18483" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/42._Agaricia_tenuifolia_KC_-_Corallite.jpg" width="846" size="large"/>
+<rendition height="650" src="images/medium/42._Agaricia_tenuifolia_KC_-_Corallite.jpg" width="647" size="medium"/>
+<rendition height="520" src="images/small/42._Agaricia_tenuifolia_KC_-_Corallite.jpg" width="518" size="small"/>
+<rendition height="48" src="images/thumb/42._Agaricia_tenuifolia_KC_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>43. Agaricia undata</title>
+<description>Piece of colony; corallites</description>
+<imageID id="18500" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="249" src="images/large/43._Agaricia_undata_CTW_-_Corallite.jpg" width="300" size="large"/>
+<rendition height="249" src="images/medium/43._Agaricia_undata_CTW_-_Corallite.jpg" width="300" size="medium"/>
+<rendition height="249" src="images/small/43._Agaricia_undata_CTW_-_Corallite.jpg" width="300" size="small"/>
+<rendition height="40" src="images/thumb/43._Agaricia_undata_CTW_-_Corallite.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>44. Helioseris cucullata</title>
+<description>Colony</description>
+<imageID id="18517" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/44._Helioseris_cucullata_LD_-_Colony.jpg" width="799" size="large"/>
+<rendition height="650" src="images/medium/44._Helioseris_cucullata_LD_-_Colony.jpg" width="611" size="medium"/>
+<rendition height="520" src="images/small/44._Helioseris_cucullata_LD_-_Colony.jpg" width="489" size="small"/>
+<rendition height="48" src="images/thumb/44._Helioseris_cucullata_LD_-_Colony.jpg" width="45" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>44. Helioseris cucullata</title>
+<description>Corallites</description>
+<imageID id="18534" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/44._Helioseris_cucullata_LD_-_Corallite.jpg" width="733" size="large"/>
+<rendition height="650" src="images/medium/44._Helioseris_cucullata_LD_-_Corallite.jpg" width="561" size="medium"/>
+<rendition height="520" src="images/small/44._Helioseris_cucullata_LD_-_Corallite.jpg" width="448" size="small"/>
+<rendition height="48" src="images/thumb/44._Helioseris_cucullata_LD_-_Corallite.jpg" width="41" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title>44. Helioseris cucullata</title>
+<description>Colony</description>
+<imageID id="18601" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/44._Helioseris_cucullata_LD_-_Corallite2.jpg" width="848" size="large"/>
+<rendition height="650" src="images/medium/44._Helioseris_cucullata_LD_-_Corallite2.jpg" width="648" size="medium"/>
+<rendition height="520" src="images/small/44._Helioseris_cucullata_LD_-_Corallite2.jpg" width="519" size="small"/>
+<rendition height="48" src="images/thumb/44._Helioseris_cucullata_LD_-_Corallite2.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>
